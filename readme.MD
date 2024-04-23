@@ -1,4 +1,4 @@
-# Desktop Scraping App Project Built with Flet (Powered by Flutter)
+# Scraping App for Desktop Built with Flet (Powered by Flutter)
 
 ## Overview
 
