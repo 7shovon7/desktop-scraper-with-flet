@@ -1,4 +1,4 @@
-# Desktop App Project
+# Desktop Scraping App Project Built with Flet (Powered by Flutter)
 
 ## Overview
 
@@ -26,7 +26,7 @@ This desktop application is built with Flet and designed to perform scraping tas
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/7shovon7/desktop-scraper-with-flet.git
    ```
 
 2. Create and activate virtual environment:
