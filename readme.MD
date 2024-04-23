@@ -4,6 +4,8 @@
 
 This desktop application is built with Flet and designed to perform scraping tasks on provided input data. It scrapes data from specific URLs, processes it, and generates an output file. The application utilizes various libraries such as Pandas, Requests, Jinja2, and Cloudscraper for data manipulation, web scraping, and rendering.
 
+![screenshot](./extra/screenshot.png)
+
 ## Features
 
 - Supports input data in CSV and Excel formats.
